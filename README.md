@@ -13,5 +13,6 @@ library(data.table)
 
 library(plotly)
 
-shiny::runGitHub("WHO_TB_Burden/Barplot", "damonzon")
+shiny::runGitHub("Regional_TB_Incidence", "damonzon")
+
 
