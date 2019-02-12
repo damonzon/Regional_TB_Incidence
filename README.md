@@ -7,11 +7,9 @@ The app.R Shiny app can be run by the following commands in Rstudio.
 
 library(shiny)
 
-library(shinydashboard)
+library(shinythemes)
 
 library(data.table)
-
-library(ggplot2)
 
 library(plotly)
 
